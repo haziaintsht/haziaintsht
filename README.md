@@ -77,7 +77,7 @@ When I'm not coding, configuring virtual networks, or working with Supabase, I e
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=haziaintsht&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=haziaintsht&show_icons=true&theme=radical&cache_seconds=86400&v=1" alt="GitHub Stats" />
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haziaintsht&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haziaintsht&theme=radical&v=1" alt="GitHub Streak" />
 </p>
