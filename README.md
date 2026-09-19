@@ -9,11 +9,6 @@
 I'm here to create and explore things on the internet and the world by building scalable full-stack web applications, architecting robust cloud and database systems, and configuring secure networks. Whether it's designing seamless mobile and web interfaces, optimizing backend workflows, or figuring out how complex systems fit together under the hood, I love turning ideas into functional, real-world digital experiences.
 </p>
 
-<!-- Spotify Now Playing Widget -->
-<a href="https://github.com/novatbn/novatbn-spotify-readme">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vmpljnk3hb2pcdhxbuppbo6qli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-</a>
-
 <br>
 
 ### <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="26" align="top" alt="Terminal" /> Tech Stack & Tools
