@@ -1,15 +1,17 @@
 <h1>Hey! I'm Jhay-Vy Adajar <img src="https://api.iconify.design/lucide:sparkles.svg?color=%2358A6FF" width="32" align="top" alt="Sparkles" /></h1>
 
+<!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Student+@+De+La+Salle+Lipa;Network+Enthusiast;Building+apps,+exploring+systems" alt="Typing SVG" />
 </a>
 
 <p>
-I'm here to create and explore things on the internet and the world by building full-stack web apps, configuring networks, and figuring out how systems fit together.
+I'm here to create and explore things on the internet and the world by building scalable full-stack web applications, architecting robust cloud and database systems, and configuring secure networks. Whether it's designing seamless mobile and web interfaces, optimizing backend workflows, or figuring out how complex systems fit together under the hood, I love turning ideas into functional, real-world digital experiences.
 </p>
 
+<!-- Spotify Now Playing Widget -->
 <a href="https://github.com/novatbn/novatbn-spotify-readme">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vmpljnk3hb2pcdhxbuppbo6qli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
 </a>
 
 <br>
@@ -110,6 +112,7 @@ When I'm not coding, configuring virtual networks, or working with Supabase, I e
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=haziaintsht&theme=radical&v=1" alt="GitHub Streak" />
 </p>
 
+<!-- GitHub Snake Game -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haziaintsht/haziaintsht/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haziaintsht/haziaintsht/output/github-contribution-grid-snake.svg">
