@@ -1,9 +1,9 @@
-<h1>Hey! I'm Jhay-Vy Adajar 👋</h1>
+<h1>Hey! I'm Jhay-Vy Adajar <img src="https://api.iconify.design/lucide:sparkles.svg?color=%2358A6FF" width="32" align="top" alt="Sparkles" /></h1>
 <p>
 I'm a Full Stack Developer and Information Technology student at De La Salle Lipa. I'm here to create and explore things on the internet and the world by building full-stack web apps, configuring networks, and figuring out how systems fit together.
 </p>
 
-### ⚙️ Tech Stack & Tools
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="26" align="top" alt="Terminal" /> Tech Stack & Tools
 <p>
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
@@ -42,20 +42,20 @@ I'm a Full Stack Developer and Information Technology student at De La Salle Lip
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </p>
 
-### 🚀 Projects
+### <img src="https://api.iconify.design/lucide:folder-code.svg?color=%2358A6FF" width="26" align="top" alt="Projects" /> Projects
 * **<a href="https://github.com/shin486/PalengkeHubFinal">PalengkeHub (Market Price Monitoring System)</a>** — A comprehensive system for the Lipa City Public Market utilizing React Native/Expo for the mobile app, React/Vite for the admin dashboard, and Supabase as the backend. Deployed using Cloudflare Workers and Pages.
 * **Sip & Savor Spot (Cafe Management & Loyalty System)** — A full-stack web application built for a local cafe using Next.js (App Router), TypeScript, and Tailwind CSS. Features include a digital menu, an interactive hidden menu, a digital loyalty card system, and an admin point-of-sale (POS) dashboard. Powered by Supabase (Auth, PostgreSQL) and deployed on Vercel.
 * **C++ Employee Payroll & Class Hierarchy** — An object-oriented programming project demonstrating backend logic, utilizing class inheritance and virtual functions to manage employee data and payroll menus. 
 
-### 🌱 Core Skills & Focus Areas
+### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="26" align="top" alt="Skills" /> Core Skills & Focus Areas
 * **Modern Frontend & Mobile:** Building responsive UIs with React, Next.js, and Tailwind CSS, alongside cross-platform mobile development using React Native and Expo.
 * **Backend & Cloud Architecture:** Implementing secure backends using Supabase (PostgreSQL, Row Level Security, Auth) and deploying edge functions via Cloudflare Workers and Vercel.
 * **System Administration & Networking:** VLAN configuration, VLSM subnetting, DHCP services, SSH key security, and firewall administration (UFW/Windows Defender).
 
-### ⚡ Fun Fact
+### <img src="https://api.iconify.design/lucide:zap.svg?color=%2358A6FF" width="26" align="top" alt="Zap" /> Fun Fact
 When I'm not coding, configuring virtual networks, or working with Supabase, I enjoy experimenting with AI image generation, prompt engineering, and exploring ethics and philosophical frameworks!
 
-### 🌐 Connect with Me
+### <img src="https://api.iconify.design/lucide:link.svg?color=%2358A6FF" width="26" align="top" alt="Link" /> Connect with Me
 <p align="center">
   <a href="https://github.com/haziaintsht">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
