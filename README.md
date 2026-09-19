@@ -8,43 +8,72 @@ I like building full-stack web apps, configuring networks, and figuring out how 
 ### ⚙️ Tech Stack & Tools
 <p>
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <br>
-  <!-- Frameworks & Backend -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <!-- Systems & Tools -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash" />
+  <br><br>
+  <!-- Frontend & Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React/React Native" title="React/React Native" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
+  <br><br>
+  <!-- Backend & Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <br><br>
+  <!-- Cloud, Systems & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" title="Cloudflare" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" title="Ubuntu" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </p>
 
 ### 🚀 Projects
-* **<a href="https://github.com/shin486/PalengkeHubFinal">PalengkeHub (Market Price Monitoring System)</a>** — A web-based market price monitoring and section directory system for the Lipa City Public Market. I collaborated heavily on this full-stack capstone research project alongside my team to provide price transparency, vendor visibility, and stall discovery, coordinating directly with the Lipa City Market Administrator office.
+* **<a href="https://github.com/shin486/PalengkeHubFinal">PalengkeHub (Market Price Monitoring System)</a>** — A comprehensive system for the Lipa City Public Market utilizing React Native/Expo for the mobile app, React/Vite for the admin dashboard, and Supabase as the backend. Deployed using Cloudflare Workers and Pages.
+* **Next.js QR / Web App** — Built utilizing the Next.js App Router, TypeScript, and Tailwind CSS. Features Supabase integration (Authentication, RLS, Storage), Framer Motion, and QR code generation, deployed on Vercel. 
 * **C++ Employee Payroll & Class Hierarchy** — An object-oriented programming project demonstrating backend logic, utilizing class inheritance and virtual functions to manage employee data and payroll menus. 
 
-### 🌱 What I'm Learning & Core Skills
-* **Full-Stack Development:** Connecting JavaScript functions, PHP queries, and Node.js server scripts to build responsive web applications.
+### 🌱 Core Skills & Focus Areas
+* **Modern Frontend & Mobile:** Building responsive UIs with React, Next.js, and Tailwind CSS, alongside cross-platform mobile development using React Native and Expo.
+* **Backend & Cloud Architecture:** Implementing secure backends using Supabase (PostgreSQL, Row Level Security, Auth) and deploying edge functions via Cloudflare Workers and Vercel.
 * **System Administration & Networking:** VLAN configuration, VLSM subnetting, DHCP services, SSH key security, and firewall administration (UFW/Windows Defender).
-* **Database Management:** Relational table joins, schema structuring, and database operations via phpMyAdmin.
 
 ### ⚡ Fun Fact
-When I'm not coding or configuring virtual networks, I enjoy experimenting with AI image generation, prompt engineering, and exploring ethics and philosophical frameworks!
+When I'm not coding, configuring virtual networks, or working with Supabase, I enjoy experimenting with AI image generation, prompt engineering, and exploring ethics and philosophical frameworks!
 
 ### 🌐 Connect with Me
 <p align="center">
-<a href="https://github.com/haziaintsht">GitHub (@haziaintsht)</a> | 
-<a href="https://www.linkedin.com/in/jhay-vy-adajar-b327693b5/">LinkedIn</a> | 
-<a href="https://instagram.com/YOUR_USERNAME_HERE">Instagram</a> | 
-<a href="mailto:jhayvy0419@gmail.com">Email (Personal)</a> | 
-<a href="mailto:jhay-vy_adajar@dlsl.edu.ph">Email (School)</a>
+  <a href="https://github.com/haziaintsht">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jhay-vy-adajar-b327693b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:jhayvy0419@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" />
+  </a>
+  <a href="mailto:jhay-vy_adajar@dlsl.edu.ph">
+    <img src="https://img.shields.io/badge/School_Email-00599C?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="School Email" />
+  </a>
 </p>
 
 <p align="center">
