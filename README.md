@@ -1,7 +1,18 @@
 <h1>Hey! I'm Jhay-Vy Adajar <img src="https://api.iconify.design/lucide:sparkles.svg?color=%2358A6FF" width="32" align="top" alt="Sparkles" /></h1>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Student+@+De+La+Salle+Lipa;Network+Enthusiast;Building+apps,+exploring+systems" alt="Typing SVG" />
+</a>
+
 <p>
-I'm a Full Stack Developer and Information Technology student at De La Salle Lipa. I'm here to create and explore things on the internet and the world by building full-stack web apps, configuring networks, and figuring out how systems fit together.
+I'm here to create and explore things on the internet and the world by building full-stack web apps, configuring networks, and figuring out how systems fit together.
 </p>
+
+<a href="https://github.com/novatbn/novatbn-spotify-readme">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+</a>
+
+<br>
 
 ### <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="26" align="top" alt="Terminal" /> Tech Stack & Tools
 <p>
@@ -98,3 +109,9 @@ When I'm not coding, configuring virtual networks, or working with Supabase, I e
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=haziaintsht&theme=radical&v=1" alt="GitHub Streak" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haziaintsht/haziaintsht/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haziaintsht/haziaintsht/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haziaintsht/haziaintsht/output/github-contribution-grid-snake.svg">
+</picture>
