@@ -1,7 +1,6 @@
 <h1>Hey! I'm Jhay-Vy Adajar 👋</h1>
-<p align="center">
-I'm a Full Stack Developer and Information Technology student at De La Salle Lipa.<br>
-I'm here to create and explore things on the internet and the world, building full-stack web apps, configuring networks, and figuring out how systems fit together.
+<p>
+I'm a Full Stack Developer and Information Technology student at De La Salle Lipa. I'm here to create and explore things on the internet and the world by building full-stack web apps, configuring networks, and figuring out how systems fit together.
 </p>
 
 ### ⚙️ Tech Stack & Tools
