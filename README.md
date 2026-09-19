@@ -1,8 +1,7 @@
 <h1 align="center">Hey! I'm Jhay-Vy Adajar 👋</h1>
 <p align="center">
-I'm a Full Stack Developer and Information Technology student at De La Salle Lipa.
-I like building full-stack web apps, configuring networks, and figuring out how systems fit together — currently deep in my capstone research project,
-<b>PalengkeHub</b>, a market price monitoring and section directory system for public markets in Lipa City.
+I'm a Full Stack Developer and Information Technology student at De La Salle Lipa.<br>
+I'm here to create and explore things on the internet and the world, building full-stack web apps, configuring networks, and figuring out how systems fit together.
 </p>
 
 ### ⚙️ Tech Stack & Tools
@@ -46,7 +45,7 @@ I like building full-stack web apps, configuring networks, and figuring out how 
 
 ### 🚀 Projects
 * **<a href="https://github.com/shin486/PalengkeHubFinal">PalengkeHub (Market Price Monitoring System)</a>** — A comprehensive system for the Lipa City Public Market utilizing React Native/Expo for the mobile app, React/Vite for the admin dashboard, and Supabase as the backend. Deployed using Cloudflare Workers and Pages.
-* **Next.js QR / Web App** — Built utilizing the Next.js App Router, TypeScript, and Tailwind CSS. Features Supabase integration (Authentication, RLS, Storage), Framer Motion, and QR code generation, deployed on Vercel. 
+* **Sip & Savor Spot (Cafe Management & Loyalty System)** — A full-stack web application built for a local cafe using Next.js (App Router), TypeScript, and Tailwind CSS. Features include a digital menu, an interactive hidden menu, a digital loyalty card system, and an admin point-of-sale (POS) dashboard. Powered by Supabase (Auth, PostgreSQL) and deployed on Vercel.
 * **C++ Employee Payroll & Class Hierarchy** — An object-oriented programming project demonstrating backend logic, utilizing class inheritance and virtual functions to manage employee data and payroll menus. 
 
 ### 🌱 Core Skills & Focus Areas
