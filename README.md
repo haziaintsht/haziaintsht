@@ -90,7 +90,7 @@ When I'm not coding, configuring virtual networks, or working with Supabase, I e
   <a href="https://www.linkedin.com/in/jhay-vy-adajar-b327693b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME_HERE">
+<a href="https://instagram.com/hzysl1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:jhayvy0419@gmail.com">
