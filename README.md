@@ -79,8 +79,8 @@ I'm here to create and explore things on the internet and the world by building 
 * **<a href="https://github.com/haziaintsht/YslaNotes">YslaNotes (AI-Powered Study & Quiz App)</a>** — A gamified full-stack web app built with Node.js, Express, EJS, and Supabase Postgres. Automatically ingests PDF/DOCX lecture documents via Google Gemini AI to generate flashcards, multiple-choice quizzes, and situational exams, complete with a coin rewards system, PDF exports, and an interactive decorative mascot (*Hoshi*). Deployed on Render.
 
 ### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="26" align="top" alt="Skills" /> Core Skills & Focus Areas
-* **Modern Frontend & Mobile:** Building responsive UIs with React, Next.js, and Tailwind CSS, alongside cross-platform mobile development using React Native and Expo.
-* **Backend & Cloud Architecture:** Implementing secure backends using Supabase (PostgreSQL, Row Level Security, Auth) and deploying services via Vercel, Render, and Netlify.
+* **Modern Full-Stack & Mobile Development:** Building responsive, dynamic web applications with React, Next.js, Node.js, and Express, alongside cross-platform mobile app development using React Native and Expo.
+* **AI Integration & Cloud Architecture:** Leveraging AI models (Google Gemini) for automated content generation, structuring secure databases with Supabase and MySQL, and deploying applications across Vercel, Render, Netlify, and Cloudflare.
 * **System Administration & Networking:** VLAN configuration, VLSM subnetting, DHCP services, SSH key security, and firewall administration (UFW/Windows Defender).
 
 ### <img src="https://api.iconify.design/lucide:zap.svg?color=%2358A6FF" width="26" align="top" alt="Zap" /> Fun Fact
