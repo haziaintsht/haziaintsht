@@ -54,6 +54,10 @@ I'm here to create and explore things on the internet and the world by building 
   <b>Cloud & DevOps</b><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="Netlify" title="Netlify" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="40" alt="Render" title="Render" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" title="Cloudflare" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
@@ -76,7 +80,7 @@ I'm here to create and explore things on the internet and the world by building 
 
 ### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="26" align="top" alt="Skills" /> Core Skills & Focus Areas
 * **Modern Frontend & Mobile:** Building responsive UIs with React, Next.js, and Tailwind CSS, alongside cross-platform mobile development using React Native and Expo.
-* **Backend & Cloud Architecture:** Implementing secure backends using Supabase (PostgreSQL, Row Level Security, Auth) and deploying edge functions via Cloudflare Workers and Vercel.
+* **Backend & Cloud Architecture:** Implementing secure backends using Supabase (PostgreSQL, Row Level Security, Auth) and deploying services via Vercel, Render, and Netlify.
 * **System Administration & Networking:** VLAN configuration, VLSM subnetting, DHCP services, SSH key security, and firewall administration (UFW/Windows Defender).
 
 ### <img src="https://api.iconify.design/lucide:zap.svg?color=%2358A6FF" width="26" align="top" alt="Zap" /> Fun Fact
@@ -90,7 +94,7 @@ When I'm not coding, configuring virtual networks, or working with Supabase, I e
   <a href="https://www.linkedin.com/in/jhay-vy-adajar-b327693b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<a href="https://instagram.com/hzysl1">
+  <a href="https://instagram.com/hzysl1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:jhayvy0419@gmail.com">
