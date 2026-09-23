@@ -77,18 +77,6 @@ I'm here to create and explore things on the internet and the world by building 
 * **<a href="https://github.com/shin486/PalengkeHubFinal">PalengkeHub (Market Price Monitoring System)</a>** — A comprehensive system for the Lipa City Public Market utilizing React Native/Expo for the mobile app, React/Vite for the admin dashboard, and Supabase as the backend. Deployed using Cloudflare Workers and Pages.
 * **<a href="https://github.com/haziaintsht/sip-and-savor">Sip & Savor Spot (Cafe Management & Loyalty System)</a>** — A full-stack web application built for a local cafe using Next.js (App Router), TypeScript, and Tailwind CSS. Features include a digital menu, an interactive hidden menu, a digital loyalty card system, and an admin point-of-sale (POS) dashboard. Powered by Supabase (Auth, PostgreSQL) and deployed on Vercel.
 * **<a href="https://github.com/VONGoldilux/Fedelicious-Wings-POS-">Fedelicious Wings POS</a>** — A full-stack Point of Sale and restaurant management system built with Next.js, TypeScript, and Fluent UI. It features a complex cashier POS with real-time cart state, intricate discount engines (RA 9994/RA 10754), a live three-column kitchen display kanban via Supabase Realtime, and a comprehensive admin dashboard with Recharts analytics and automated payroll computation.
-  <details>
-  <summary><b>🔍 View Codebase & Architecture Deep-Dive</b></summary>
-  <br>
-  <ul>
-    <li><b>Auth & Routing:</b> Two-layer route protection driven by <code>profiles.role</code>. Middleware enforces URL boundaries (/admin, /cashier, /kitchen), while a client-side <code>RoleGate.tsx</code> acts as a backstop. Auth context automatically clocks staff in/out via <code>time_logs</code>.</li>
-    <li><b>Database:</b> Structured with strict Row Level Security (RLS) gated by <code>SECURITY DEFINER</code> functions to prevent recursion. Utilizes computed columns for totals and hours worked. A narrow RPC handles product availability toggling for the kitchen.</li>
-    <li><b>Cashier POS:</b> A logic-dense client component layering multiple discount systems (percentage, flat, BOGO, bundles). Includes an intricate claim-tracking system for Senior/PWD IDs to prevent double-claiming items. Handles order type branching (dine-in tables vs. delivery fees) and real-time "ready" alerts.</li>
-    <li><b>Kitchen Display:</b> A live three-column Kanban queue updated via Postgres Realtime. Features visual urgency highlights for tickets older than 15 minutes without requiring constant data refetching.</li>
-    <li><b>Admin Area:</b> Comprehensive management for products, custom dynamic promos, staff roles, and automated payroll computation. Includes a Fluent UI dashboard visualizing revenue, trending items, and dead stock via Recharts.</li>
-  </ul>
-  <br>
-  </details>
 
 ### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="26" align="top" alt="Skills" /> Core Skills & Focus Areas
 * **Modern Full-Stack & Mobile Development:** Building responsive, dynamic web applications with React, Next.js, Node.js, and Express, alongside cross-platform mobile app development using React Native and Expo.
