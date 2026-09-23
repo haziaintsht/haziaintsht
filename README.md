@@ -76,6 +76,19 @@ I'm here to create and explore things on the internet and the world by building 
 ### <img src="https://api.iconify.design/lucide:folder-code.svg?color=%2358A6FF" width="26" align="top" alt="Projects" /> Projects
 * **<a href="https://github.com/shin486/PalengkeHubFinal">PalengkeHub (Market Price Monitoring System)</a>** — A comprehensive system for the Lipa City Public Market utilizing React Native/Expo for the mobile app, React/Vite for the admin dashboard, and Supabase as the backend. Deployed using Cloudflare Workers and Pages.
 * **<a href="https://github.com/haziaintsht/sip-and-savor">Sip & Savor Spot (Cafe Management & Loyalty System)</a>** — A full-stack web application built for a local cafe using Next.js (App Router), TypeScript, and Tailwind CSS. Features include a digital menu, an interactive hidden menu, a digital loyalty card system, and an admin point-of-sale (POS) dashboard. Powered by Supabase (Auth, PostgreSQL) and deployed on Vercel.
+  <details>
+  <summary><b>🔍 View Codebase & Architecture Deep-Dive</b></summary>
+  <br>
+  <ul>
+    <li><b>Auth & Routing:</b> Two-layer route protection driven by <code>profiles.role</code>. Middleware refreshes the Supabase session server-side and enforces URL boundaries (/admin, /cashier, /kitchen). A client-side <code>RoleGate.tsx</code> acts as a backstop. Auth context automatically clocks staff in/out by creating and reconciling <code>time_logs</code> upon sign-in/out.</li>
+    <li><b>Database (Supabase/Postgres):</b> Structured with Row Level Security (RLS) gated by <code>SECURITY DEFINER</code> functions (<code>current_role()</code>, <code>is_super_admin()</code>) to prevent RLS recursion. Utilizes computed columns for <code>line_total</code> and <code>hours_worked</code>. Realtime subscriptions power live cashier-to-kitchen sync.</li>
+    <li><b>Cashier POS:</b> A logic-dense client component handling cart state, complex discount systems (Senior/PWD claim tracking to prevent double-claiming), and four promo types (percentage, flat, BOGO, bundles). Integrates fee branching (dine-in, delivery, container fees) and listens for realtime "order ready" Postgres events.</li>
+    <li><b>Kitchen Display:</b> A live three-column Kanban queue (Queued/Preparing/Ready) updated via Postgres Realtime. Features visual urgency highlights for tickets older than 15 minutes and secure, narrow RPC updates for toggling product availability.</li>
+    <li><b>Admin Area:</b> Comprehensive management for products, dynamic promos, staff roles, and automated payroll computation based on <code>time_logs</code>. Includes a Fluent UI + Recharts dashboard visualizing revenue, trending items, and dead stock, supported by a custom SVG dark-mode listener.</li>
+    <li><b>Cross-Cutting UI:</b> Shared robust components like <code>ReceiptModal.tsx</code> directly reflect POS checkout math, while Fluent UI presentational elements ensure a consistent layout across admin tools.</li>
+  </ul>
+  <br>
+  </details>
 * **<a href="https://github.com/haziaintsht/YslaNotes">YslaNotes (AI-Powered Study & Quiz App)</a>** — A gamified full-stack web app built with Node.js, Express, EJS, and Supabase Postgres. Automatically ingests PDF/DOCX lecture documents via Google Gemini AI to generate flashcards, multiple-choice quizzes, and situational exams, complete with a coin rewards system, PDF exports, and an interactive decorative mascot (*Hoshi*). Deployed on Render.
 
 ### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="26" align="top" alt="Skills" /> Core Skills & Focus Areas
