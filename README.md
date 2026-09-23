@@ -56,7 +56,7 @@ I'm here to create and explore things on the internet and the world by building 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="Netlify" title="Netlify" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="40" alt="Render" title="Render" />
+  <img src="https://cdn.simpleicons.org/render" height="40" alt="Render" title="Render" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" title="Cloudflare" />
   <img width="12" />
