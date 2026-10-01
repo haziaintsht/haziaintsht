@@ -42,6 +42,8 @@ I'm here to create and explore things on the internet and the world by building 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
@@ -76,7 +78,7 @@ I'm here to create and explore things on the internet and the world by building 
 ### <img src="https://api.iconify.design/lucide:folder-code.svg?color=%2358A6FF" width="26" align="top" alt="Projects" /> Projects
 * **<a href="https://github.com/shin486/PalengkeHubFinal">PalengkeHub (Market Price Monitoring System)</a>** — A comprehensive system for the Lipa City Public Market utilizing React Native/Expo for the mobile app, React/Vite for the admin dashboard, and Supabase as the backend. Deployed using Cloudflare Workers and Pages.
 * **<a href="https://github.com/haziaintsht/sip-and-savor">Sip & Savor Spot (Cafe Management & Loyalty System)</a>** — A full-stack web application built for a local cafe using Next.js (App Router), TypeScript, and Tailwind CSS. Features include a digital menu, an interactive hidden menu, a digital loyalty card system, and an admin point-of-sale (POS) dashboard. Powered by Supabase (Auth, PostgreSQL) and deployed on Vercel.
-* **<a href="https://github.com/VONGoldilux/Fedelicious-Wings-POS-">Fedelicious Wings POS</a>** — A full-stack Point of Sale and restaurant management system built with Next.js, TypeScript, and Fluent UI. It features a complex cashier POS with real-time cart state, intricate discount engines (RA 9994/RA 10754), a live three-column kitchen display kanban via Supabase Realtime, and a comprehensive admin dashboard with Recharts analytics and automated payroll computation.
+* **<a href="https://github.com/shopaholichs/shopaholichs.github.io">ShopaholiCHS (School Merch Store System)</a>** (<a href="https://github.com/shopaholichs/shopaholichs-admin.github.io">Admin Repo</a> | <a href="https://shopaholichs.store">Live Store</a>) — A modular school merchandise platform and admin management portal constructed with Vanilla JS (ES Modules), Vite, Tailwind CSS, and Firebase (Auth, Firestore). Features granular role-based access control, integrated QR code scanning for order verification, Cloudinary CDN asset transformations, EmailJS notifications, domain-gated student/faculty access (@g.batstate-u.edu.ph), and automated Firebase emulator unit testing.
 
 ### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="26" align="top" alt="Skills" /> Core Skills & Focus Areas
 * **Modern Full-Stack & Mobile Development:** Building responsive, dynamic web applications with React, Next.js, Node.js, and Express, alongside cross-platform mobile app development using React Native and Expo.
